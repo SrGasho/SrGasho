@@ -10,9 +10,7 @@
 
 ---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
-
-<picture> <img align="right" src="https://media.tenor.com/GmIIzl-IafIAAAPo/lannabanana.gif" width = 250px></picture>
+## **About Me**
 
 - Systems Engineering student passionate about real-world tech solutions
 - Experience in Backend, ML, LLMs, Frontend & Data Analysis
